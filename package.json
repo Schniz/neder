@@ -1,0 +1,23 @@
+{
+  "name": "neder",
+  "version": "0.0.1",
+  "description": "really simple and jewish javascript promises",
+  "main": "./lib/neder.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "promises",
+    "jewish",
+    "a+"
+  ],
+  "author": "Gal Schlezinger",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.4"
+  }
+}
