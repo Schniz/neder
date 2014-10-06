@@ -20,5 +20,17 @@
     "chai": "^1.9.2",
     "mocha": "^1.21.4",
     "randomstring": "^1.0.3"
-  }
+  },
+  "dependencies": {
+    "chai": "^1.9.2",
+    "randomstring": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Schniz/neder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Schniz/neder/issues"
+  },
+  "homepage": "https://github.com/Schniz/neder"
 }
