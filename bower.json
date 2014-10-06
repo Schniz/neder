@@ -1,0 +1,24 @@
+{
+  "name": "neder",
+  "version": "0.0.1",
+  "authors": [
+    "Gal Schlezinger <gal@spitfire.co.il>"
+  ],
+  "description": "really simple and jewish javascript promises",
+  "main": "./lib/neder.js",
+  "keywords": [
+    "promises",
+    "promise",
+    "jewish",
+    "a+"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
